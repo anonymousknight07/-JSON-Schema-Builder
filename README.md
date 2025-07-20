@@ -2,6 +2,7 @@
 
 A modern, intuitive web application for creating and visualizing JSON schemas with real-time preview capabilities. Built with React, TypeScript, and Tailwind CSS, this tool simplifies the process of designing complex JSON structures through an interactive visual interface.
 
+<img width="1024" height="1024" alt="{}" src="https://github.com/user-attachments/assets/155a577b-3ffd-45fa-9c87-d29cfd538c7b" />
 
 ## Introduction
 
